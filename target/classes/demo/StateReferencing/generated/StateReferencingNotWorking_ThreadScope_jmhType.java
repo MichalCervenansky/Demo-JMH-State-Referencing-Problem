@@ -1,0 +1,4 @@
+package demo.StateReferencing.generated;
+public class StateReferencingNotWorking_ThreadScope_jmhType extends StateReferencingNotWorking_ThreadScope_jmhType_B3 {
+}
+
